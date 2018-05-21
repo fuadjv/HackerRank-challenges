@@ -1,2 +1,1 @@
-# HackerRank-challenges
-# I will include solutions of some challenges from Hacker Rank using Python 3
+# Solutions of some HackerRank-challenges using Python 3
